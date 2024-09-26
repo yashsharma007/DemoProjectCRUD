@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"basic-rest-service/controllers"
+	"demoProject/controllers"
 
 	"github.com/gorilla/mux"
 )
